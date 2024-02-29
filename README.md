@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Endí Marani</h1>
 <h3 align="center">I'm a development student who's looking for improve my knowledge at programming, focusing on the front-end learning.</h3>
 
-- 🔭 I’m currently working on **Alura Encrypt and Decrypt**
+- 🔭 I’m currently working on **Integrative Project on SENAC/RN**
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML**
 
