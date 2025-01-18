@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Endí Marani</h1>
 <h3 align="center">I'm a development student who's looking for improve my knowledge at programming, focusing on the front-end learning.</h3>
 
-- 🔭 I’m currently working on a **Integrative Project** at SENAC/RN
+- 🔭 I'm currently studying Systems Analysis and Development at Universidade Tiradentes.
 
-- 🌱 I’m currently learning **JavaScript, CSS, HTML**
+- 🌱 I’m focusing on **Front-End Development**
 
 - 👯 I’m looking to collaborate on **Anyone who's looking to share knowledge and grow together**
 
