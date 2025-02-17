@@ -4,14 +4,14 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tec
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Tiradentes
-- 💻 Estudo focado no desenvolvimento web com **React, Next.js, TypeScript e Node.js**
+- 💻 Estudo focado no desenvolvimento web com **React, Next.js, JavaScript, TypeScript e Node.js**
 - 📚 Aprendendo sobre **boas práticas, escalabilidade e padrões modernos de desenvolvimento**
 - 🔍 Buscando oportunidades para **estágio** e conexões na área de tecnologia
 
-## 🛠 Tecnologias e Ferramentas
-- **Front-end:** React 19, Next.js 15.1.5, TypeScript, Tailwind CSS
+## 🛠 Tecnologias, Ferramentas e Interesses
+- **Front-end:** React 19, Next.js 15.1.5, JavaScript e TypeScript
 - **Back-end:** Node.js, Prisma, API REST
-- **Banco de Dados:** PostgreSQL, MySQL
+- **Banco de Dados:** PostgreSQL, MongoDB
 - **Versionamento:** Git, GitHub
 - **Deploy:** Vercel
 
