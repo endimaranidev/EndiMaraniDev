@@ -23,7 +23,7 @@ Aqui estão alguns projetos que desenvolvi ou estou trabalhando:
 - [**Aplicação de Produtos**](#) → Um CRUD para gerenciamento de produtos com filtros e pesquisa
 
 ## 📫 Como me encontrar?
-- 💼 [LinkedIn]([#](https://www.linkedin.com/in/endimarani/)) 
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/endimarani/)]) 
 - 📧 [E-mail](mailto:endimarani.dev@gmail.com)
 - 🌎 [Meu Portfólio](#) *(caso tenha um site pessoal)*
 
