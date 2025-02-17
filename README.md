@@ -17,15 +17,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tec
 
 ## 📌 Projetos em Destaque
 Aqui estão alguns projetos que desenvolvi ou estou trabalhando:
-
-- [**CRUD de Usuários**](#) → Um sistema completo com autenticação e gerenciamento de usuários
-- [**Landing Page Responsiva**](#) → Projeto prático utilizando Next.js e Tailwind CSS
-- [**Aplicação de Produtos**](#) → Um CRUD para gerenciamento de produtos com filtros e pesquisa
+  🚧 Em Construção
 
 ## 📫 Como me encontrar?
 - 💼 [LinkedIn](https://www.linkedin.com/in/endimarani/) 
 - 📧 [E-mail](mailto:endimarani.dev@gmail.com)
-- 🌎 [Meu Portfólio](#) *(caso tenha um site pessoal)*
+- 🌎 [Meu Portfólio](https://portfolio-git-main-endi-maranis-projects.vercel.app/) *(caso tenha um site pessoal)*
 
 Sempre aberto a novas conexões e oportunidades! 🚀
 
