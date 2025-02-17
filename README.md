@@ -22,7 +22,7 @@ Aqui estão alguns projetos que desenvolvi ou estou trabalhando:
 ## 📫 Como me encontrar?
 - 💼 [LinkedIn](https://www.linkedin.com/in/endimarani/) 
 - 📧 [E-mail](mailto:endimarani.dev@gmail.com)
-- 🌎 [Meu Portfólio](https://portfolio-git-main-endi-maranis-projects.vercel.app/) *(caso tenha um site pessoal)*
+- 🌎 [Meu Portfólio](https://portfolio-git-main-endi-maranis-projects.vercel.app/)
 
 Sempre aberto a novas conexões e oportunidades! 🚀
 
