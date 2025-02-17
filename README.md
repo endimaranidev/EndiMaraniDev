@@ -1,37 +1,31 @@
-<h1 align="center">Hi 👋, I'm Endí Marani</h1>
-<h3 align="center">I'm a passionate development student, eager to expand my programming knowledge with a focus on front-end development.</h3>
+# 👋 Olá, eu sou Endí Marani!
 
-- 🔭 Currently, I am studying **Systems Analysis and Development** at Universidade Tiradentes.
-- 🌱 I'm focusing on **Front-End Development** and enhancing my skills in modern web technologies.
-- 👯 I'm open to collaborating with **others who are passionate about sharing knowledge and growing together**.
-- 📫 You can reach me at: **endimarani.dev@gmail.com**
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia. Atualmente, estou focado em aprender e construir projetos utilizando **React 19, Next.js 15.1.5 e TypeScript**, sempre seguindo as melhores práticas do mercado.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/endímarani" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/@endimarani" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+## 🚀 Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Tiradentes
+- 💻 Estudo focado no desenvolvimento web com **React, Next.js, TypeScript e Node.js**
+- 📚 Aprendendo sobre **boas práticas, escalabilidade e padrões modernos de desenvolvimento**
+- 🔍 Buscando oportunidades para **estágio** e conexões na área de tecnologia
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/
+## 🛠 Tecnologias e Ferramentas
+- **Front-end:** React 19, Next.js 15.1.5, TypeScript, Tailwind CSS
+- **Back-end:** Node.js, Prisma, API REST
+- **Banco de Dados:** PostgreSQL, MySQL
+- **Versionamento:** Git, GitHub
+- **Deploy:** Vercel
+
+## 📌 Projetos em Destaque
+Aqui estão alguns projetos que desenvolvi ou estou trabalhando:
+
+- [**CRUD de Usuários**](#) → Um sistema completo com autenticação e gerenciamento de usuários
+- [**Landing Page Responsiva**](#) → Projeto prático utilizando Next.js e Tailwind CSS
+- [**Aplicação de Produtos**](#) → Um CRUD para gerenciamento de produtos com filtros e pesquisa
+
+## 📫 Como me encontrar?
+- 💼 [LinkedIn]([#](https://www.linkedin.com/in/endimarani/)) 
+- 📧 [E-mail](mailto:endimarani.dev@gmail.com)
+- 🌎 [Meu Portfólio](#) *(caso tenha um site pessoal)*
+
+Sempre aberto a novas conexões e oportunidades! 🚀
+
