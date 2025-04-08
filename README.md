@@ -40,4 +40,4 @@ Atualmente me aprofundando em:
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=yellow)](https://github.com/endimaranidev)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-636bff?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-git-main-endi-maranis-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-636bff?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-git-main-endi-maranis-projects.vercel.app/) (em construção)
